@@ -1,0 +1,6 @@
+[report]
+include =
+    src/tokyo2018/*
+omit =
+    */test*
+    */upgrades/*
